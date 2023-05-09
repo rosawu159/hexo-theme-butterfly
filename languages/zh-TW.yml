@@ -58,10 +58,10 @@ aside:
   articles: 文章
   tags: 標籤
   categories: 分類
-  card_announcement: 公告
+  card_announcement: 看過來
   card_categories: 分類
   card_tags: 標籤
-  card_archives: 歸檔
+  card_archives: 彙整
   card_recent_post: 最新文章
   card_webinfo:
     headline: 網站資訊
